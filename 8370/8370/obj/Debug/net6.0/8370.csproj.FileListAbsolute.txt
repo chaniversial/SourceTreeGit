@@ -1,0 +1,15 @@
+/Users/chanho/Projects/8370/8370/bin/Debug/net6.0/8370
+/Users/chanho/Projects/8370/8370/bin/Debug/net6.0/8370.deps.json
+/Users/chanho/Projects/8370/8370/bin/Debug/net6.0/8370.runtimeconfig.json
+/Users/chanho/Projects/8370/8370/bin/Debug/net6.0/8370.dll
+/Users/chanho/Projects/8370/8370/bin/Debug/net6.0/8370.pdb
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.csproj.AssemblyReference.cache
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.AssemblyInfoInputs.cache
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.AssemblyInfo.cs
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.dll
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/refint/8370.dll
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.pdb
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/8370.genruntimeconfig.cache
+/Users/chanho/Projects/8370/8370/obj/Debug/net6.0/ref/8370.dll

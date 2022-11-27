@@ -1,0 +1,15 @@
+/Users/chanho/Projects/2741/2741/bin/Debug/net6.0/2741
+/Users/chanho/Projects/2741/2741/bin/Debug/net6.0/2741.deps.json
+/Users/chanho/Projects/2741/2741/bin/Debug/net6.0/2741.runtimeconfig.json
+/Users/chanho/Projects/2741/2741/bin/Debug/net6.0/2741.dll
+/Users/chanho/Projects/2741/2741/bin/Debug/net6.0/2741.pdb
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.csproj.AssemblyReference.cache
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.AssemblyInfoInputs.cache
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.AssemblyInfo.cs
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.dll
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/refint/2741.dll
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.pdb
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/2741.genruntimeconfig.cache
+/Users/chanho/Projects/2741/2741/obj/Debug/net6.0/ref/2741.dll

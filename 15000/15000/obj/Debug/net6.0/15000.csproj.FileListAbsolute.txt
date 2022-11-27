@@ -1,0 +1,15 @@
+/Users/chanho/Projects/15000/15000/bin/Debug/net6.0/15000
+/Users/chanho/Projects/15000/15000/bin/Debug/net6.0/15000.deps.json
+/Users/chanho/Projects/15000/15000/bin/Debug/net6.0/15000.runtimeconfig.json
+/Users/chanho/Projects/15000/15000/bin/Debug/net6.0/15000.dll
+/Users/chanho/Projects/15000/15000/bin/Debug/net6.0/15000.pdb
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.csproj.AssemblyReference.cache
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.AssemblyInfoInputs.cache
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.AssemblyInfo.cs
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.dll
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/refint/15000.dll
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.pdb
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/15000.genruntimeconfig.cache
+/Users/chanho/Projects/15000/15000/obj/Debug/net6.0/ref/15000.dll

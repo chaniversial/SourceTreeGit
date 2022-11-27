@@ -1,0 +1,15 @@
+/Users/chanho/Projects/1001/1001/bin/Debug/net6.0/1001
+/Users/chanho/Projects/1001/1001/bin/Debug/net6.0/1001.deps.json
+/Users/chanho/Projects/1001/1001/bin/Debug/net6.0/1001.runtimeconfig.json
+/Users/chanho/Projects/1001/1001/bin/Debug/net6.0/1001.dll
+/Users/chanho/Projects/1001/1001/bin/Debug/net6.0/1001.pdb
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.csproj.AssemblyReference.cache
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.AssemblyInfoInputs.cache
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.AssemblyInfo.cs
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.dll
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/refint/1001.dll
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.pdb
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/1001.genruntimeconfig.cache
+/Users/chanho/Projects/1001/1001/obj/Debug/net6.0/ref/1001.dll

@@ -1,0 +1,15 @@
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.csproj.AssemblyReference.cache
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.AssemblyInfoInputs.cache
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.AssemblyInfo.cs
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/9713/9713/bin/Debug/net6.0/9713
+/Users/chanho/Projects/9713/9713/bin/Debug/net6.0/9713.deps.json
+/Users/chanho/Projects/9713/9713/bin/Debug/net6.0/9713.runtimeconfig.json
+/Users/chanho/Projects/9713/9713/bin/Debug/net6.0/9713.dll
+/Users/chanho/Projects/9713/9713/bin/Debug/net6.0/9713.pdb
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.dll
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/refint/9713.dll
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.pdb
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/9713.genruntimeconfig.cache
+/Users/chanho/Projects/9713/9713/obj/Debug/net6.0/ref/9713.dll

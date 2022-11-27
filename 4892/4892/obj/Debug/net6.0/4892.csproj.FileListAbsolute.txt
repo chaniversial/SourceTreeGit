@@ -1,0 +1,15 @@
+/Users/chanho/Projects/4892/4892/bin/Debug/net6.0/4892
+/Users/chanho/Projects/4892/4892/bin/Debug/net6.0/4892.deps.json
+/Users/chanho/Projects/4892/4892/bin/Debug/net6.0/4892.runtimeconfig.json
+/Users/chanho/Projects/4892/4892/bin/Debug/net6.0/4892.dll
+/Users/chanho/Projects/4892/4892/bin/Debug/net6.0/4892.pdb
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.csproj.AssemblyReference.cache
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.AssemblyInfoInputs.cache
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.AssemblyInfo.cs
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.dll
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/refint/4892.dll
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.pdb
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/4892.genruntimeconfig.cache
+/Users/chanho/Projects/4892/4892/obj/Debug/net6.0/ref/4892.dll

@@ -1,0 +1,15 @@
+/Users/chanho/Projects/5217/5217/bin/Debug/net6.0/5217
+/Users/chanho/Projects/5217/5217/bin/Debug/net6.0/5217.deps.json
+/Users/chanho/Projects/5217/5217/bin/Debug/net6.0/5217.runtimeconfig.json
+/Users/chanho/Projects/5217/5217/bin/Debug/net6.0/5217.dll
+/Users/chanho/Projects/5217/5217/bin/Debug/net6.0/5217.pdb
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.csproj.AssemblyReference.cache
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.AssemblyInfoInputs.cache
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.AssemblyInfo.cs
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.dll
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/refint/5217.dll
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.pdb
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/5217.genruntimeconfig.cache
+/Users/chanho/Projects/5217/5217/obj/Debug/net6.0/ref/5217.dll

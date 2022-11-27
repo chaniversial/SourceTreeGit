@@ -1,0 +1,15 @@
+/Users/chanho/Projects/1550/1550/bin/Debug/net6.0/1550
+/Users/chanho/Projects/1550/1550/bin/Debug/net6.0/1550.deps.json
+/Users/chanho/Projects/1550/1550/bin/Debug/net6.0/1550.runtimeconfig.json
+/Users/chanho/Projects/1550/1550/bin/Debug/net6.0/1550.dll
+/Users/chanho/Projects/1550/1550/bin/Debug/net6.0/1550.pdb
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.csproj.AssemblyReference.cache
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.AssemblyInfoInputs.cache
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.AssemblyInfo.cs
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.csproj.CoreCompileInputs.cache
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.dll
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/refint/1550.dll
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.pdb
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/1550.genruntimeconfig.cache
+/Users/chanho/Projects/1550/1550/obj/Debug/net6.0/ref/1550.dll
