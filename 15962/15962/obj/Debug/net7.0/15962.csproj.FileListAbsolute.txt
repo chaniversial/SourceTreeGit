@@ -1,0 +1,15 @@
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.csproj.AssemblyReference.cache
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.AssemblyInfoInputs.cache
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.AssemblyInfo.cs
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.csproj.CoreCompileInputs.cache
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/bin/Debug/net7.0/15962
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/bin/Debug/net7.0/15962.deps.json
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/bin/Debug/net7.0/15962.runtimeconfig.json
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/bin/Debug/net7.0/15962.dll
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/bin/Debug/net7.0/15962.pdb
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.dll
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/refint/15962.dll
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.pdb
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/15962.genruntimeconfig.cache
+/Users/chanho/Desktop/SourceTreeGit/15962/15962/obj/Debug/net7.0/ref/15962.dll
